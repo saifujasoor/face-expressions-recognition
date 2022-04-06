@@ -43,10 +43,7 @@ Make sure you have installed Fast.ai library,Dlib,Numpy, Scipy, IMutils, OpenCV,
   
 4. Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-## Project Demo
-### Project Overview
 
-![s1](https://user-images.githubusercontent.com/76810003/160344080-c08e4f55-c656-4690-89a4-9bad2ba86d54.gif)
 
 
 
