@@ -24,15 +24,23 @@ The model input is a blob that consists of a single image of 1, 3, 224, 224 in R
 ## Getting Started
 
 ### Prerequisites
-Make sure you have Python, OpenCV, Flask and PIL installed on your system to run this project.
+Make sure you have installed Fast.ai library,Dlib,Numpy, Scipy, IMutils, OpenCV, Pandas, Argparse and Python.
 
 ### Execution guide
 1. Download the contents of the repository
 2. Make sure the necessary prerequisites are installed on your system
 3. Type the following command inside the directory on your terminal
-  ```sh
-  python3 app.py
+* For Real time detection:-
   ```
+  python3 liveVideoFrameRead.py
+  ```
+  
+  * For Detecting on Video:-
+  ```
+  python3 videoFrameRead.py --video-file "your video file name"
+  ```
+ 
+  
 4. Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ## Project Demo
