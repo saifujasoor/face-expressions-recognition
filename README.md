@@ -17,7 +17,9 @@ ResNet 34 is image classification model pre-trained on ImageNet dataset. This is
 
 The model input is a blob that consists of a single image of 1, 3, 224, 224 in RGB order.
 <br>
-### Ref: https://towardsdatascience.com/ ,https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+### Ref: 
+* https://towardsdatascience.com/ 
+* https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
 ## Getting Started
 
