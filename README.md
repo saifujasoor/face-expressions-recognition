@@ -17,9 +17,6 @@ ResNet 34 is image classification model pre-trained on ImageNet dataset. This is
 
 The model input is a blob that consists of a single image of 1, 3, 224, 224 in RGB order.
 <br>
-### Ref: 
-* https://towardsdatascience.com/ 
-* https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
 ## Getting Started
 
@@ -29,7 +26,13 @@ Make sure you have installed Fast.ai library,Dlib,Numpy, Scipy, IMutils, OpenCV,
 ### Execution guide
 1. Download the contents of the repository
 2. Make sure the necessary prerequisites are installed on your system
-3. Type the following command inside the directory on your terminal
+3. Type the following commands to install the necessary libraries and modules:
+```
+pip3 install -r requirements.txt
+```
+
+5. To run the project type the following command inside the directory on your terminal
+
 * For Real time detection:-
   ```
   python3 liveVideoFrameRead.py
@@ -43,13 +46,32 @@ Make sure you have installed Fast.ai library,Dlib,Numpy, Scipy, IMutils, OpenCV,
   
 4. Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
+### Ref: 
+* https://towardsdatascience.com/ 
+* https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
 
 
 
 
 
-## Contact
-[![linkedin-shield]][linkedin]
+
+## Author
+
+<table>
+<tr>
+<td>
+     <img src="https://avatars.githubusercontent.com/u/76810003?s=400&u=3de867a69316245acd6e93279367fc2a37a6dd14&v=4" width="180"/>
+     
+     Saifullah Rahimi
+
+<p align="center">
+<a href = "https://github.com/saifujasoor"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/saifullahrahimi/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr> 
+  </table>
+
 
 
 <!-- Links -->
