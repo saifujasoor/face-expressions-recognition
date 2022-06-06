@@ -20,6 +20,8 @@ The model input is a blob that consists of a single image of 1, 3, 224, 224 in R
 
 ## Getting Started
 
+- Download the Facial landmark points detection through Dlib's 68 Model by below link and place it in working directory.
+
 https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat?resource=download
 
 ### Prerequisites
