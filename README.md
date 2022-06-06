@@ -20,6 +20,8 @@ The model input is a blob that consists of a single image of 1, 3, 224, 224 in R
 
 ## Getting Started
 
+https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat?resource=download
+
 ### Prerequisites
 Make sure you have installed Fast.ai library,Dlib,Numpy, Scipy, IMutils, OpenCV, Pandas, Argparse and Python.
 
